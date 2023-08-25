@@ -11336,6 +11336,16 @@ p.lead {
   font-size: 1.5rem;
 }
 
+a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.custom-link {
+  text-decoration: none;
+  font-weight: 600;
+}
+
 #sideNav {
   padding-left: 1rem;
   padding-right: 1rem;
